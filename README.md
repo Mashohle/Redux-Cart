@@ -49,8 +49,7 @@ Use the `BLANK_README.md` to get started.
 List of tools used to bootstrap the project.
 
 * [React.js](https://reactjs.org/)
-* [Express](https://expressjs.com/)
-* [NodeJs](https://nodejs.org/en/)
+* [React-Redux](https://react-redux.js.org/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -77,7 +76,7 @@ _Below is the step by step guide to set up the project._
 
 1. Clone the repo
    ```sh
-   git clone https://gitlab.thedigitalacademy.co.za/voc/voc-workflow.git
+   git clone https://github.com/Mashohle/Redux-Cart.git
    ```
 
 2. Install dependencies
